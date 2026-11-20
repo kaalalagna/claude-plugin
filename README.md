@@ -14,8 +14,9 @@ In Claude Code:
 /plugin install kaalalagna@kaalalagna
 ```
 
-Then ask something like "List my Kaala Lagna birth profiles". Claude opens the Kaala Lagna sign-in
-page; sign in (or create an account at kaalalagna.ai) and approve the connection.
+Then sign in: run `/mcp`, select **plugin:kaalalagna:kaalalagna**, choose **Authenticate**, sign in
+to Kaala Lagna in the browser (or create an account at kaalalagna.ai) and click **Allow**. Ask
+something like "List my Kaala Lagna birth profiles".
 
 In claude.ai or Claude Desktop you can also add it as a connector: Settings → Connectors →
 Add custom connector → `https://mcp.kaalalagna.ai/claude`.

@@ -6,8 +6,9 @@ readings from Kaala Lagna's astrologer in Tamil, English, Hindi, Telugu, Malayal
 
 ## Setup
 
-Install the plugin, then use any Kaala Lagna tool: Claude asks you to sign in to your Kaala Lagna
-account (create one at kaalalagna.ai if you have none) and approve the connection. You can
+Install the plugin, then sign in: in Claude Code run `/mcp`, select the Kaala Lagna server, choose
+**Authenticate**, sign in to your Kaala Lagna account (create one at kaalalagna.ai if you have
+none) and click **Allow**. You can
 disconnect it at any time in Kaala Lagna → Settings → Connected apps.
 
 The plugin connects to `https://mcp.kaalalagna.ai/claude`. Readings use your Kaala Lagna credits; charts,
