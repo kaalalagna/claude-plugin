@@ -1,0 +1,15 @@
+{
+  "name": "kaalalagna",
+  "description": "Kaala Lagna: Vedic astrology for you and your family, in Claude.",
+  "owner": {
+    "name": "Kaalalagna.ai",
+    "url": "https://kaalalagna.ai"
+  },
+  "plugins": [
+    {
+      "name": "kaalalagna",
+      "source": "./kaalalagna",
+      "description": "Vedic astrology by Kaala Lagna for you and your family: birth charts, Dasa/Bhukti, Panchang, horoscope PDFs (South or North Indian charts), birth-time correction from life events, and personal readings from Kaala Lagna's astrologer in Tamil, English, Hindi, Telugu, Malayalam and French."
+    }
+  ]
+}
