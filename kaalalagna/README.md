@@ -6,6 +6,13 @@ readings from Kaala Lagna's astrologer in Tamil, English, Hindi, Telugu, Malayal
 
 ## Setup
 
+In Claude Code:
+
+```
+/plugin install kaalalagna --marketplace kaalalagna/claude-plugin
+```
+
+
 Install the plugin, then sign in: in Claude Code run `/mcp`, select the Kaala Lagna server, choose
 **Authenticate**, sign in to your Kaala Lagna account (create one at kaalalagna.ai if you have
 none) and click **Allow**. You can
